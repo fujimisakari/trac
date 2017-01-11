@@ -9,6 +9,6 @@ I had managed wiki data on trac but have done not new update now. so this is for
 
 install and runserver
 ```
-% pip install Trac
-% tracd ./project
+$ pip install Trac
+$ tracd ./project
 ```
